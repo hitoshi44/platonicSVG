@@ -1,0 +1,25 @@
+{
+  "name": "platonicsvg",
+  "version": "1.0.0",
+  "description": "Simple Platon Solid SVG for browsers implemented with WebComponent.",
+  "main": "platonicsvg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hitoshi44/platonicSVG.git"
+  },
+  "keywords": [
+    "svg",
+    "platon",
+    "solid",
+    "spinner"
+  ],
+  "author": "Hitoshi Harumi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hitoshi44/platonicSVG/issues"
+  },
+  "homepage": "https://github.com/hitoshi44/platonicSVG#readme"
+}
