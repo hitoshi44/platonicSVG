@@ -4,7 +4,7 @@ Copyright (c) 2021 Hitoshi Harumi
 
 This software is released under the MIT License, see ./LICENSE
 */
-export class PlatonicSVG extends HTMLElement {
+class PlatonicSVG extends HTMLElement {
 
   constructor() {
     super();
@@ -341,3 +341,4 @@ export class PlatonicSVG extends HTMLElement {
     ]
   }
 }
+customElements.define('platonic-svg', PlatonicSVG);

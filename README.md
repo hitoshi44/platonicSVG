@@ -21,7 +21,7 @@ yarn add platonicsvg
 When load from html directly, hosting yourself,
 
 ```html
-<script src="./yourhost/svwc.js" type="text/javascript" charset="utf-8" async defer></script>
+<script src="./yourhost/platonicsvg.js" type="text/javascript" charset="utf-8" async defer></script>
 ```
 
 ## Start to use.
