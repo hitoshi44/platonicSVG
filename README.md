@@ -63,11 +63,11 @@ With setting attributes, you can control the SVG's behavior as below.
 With `solid` attribute, you can specify which solid to show.
 Specify a number of faces (means using integer) is also OK.
 
-`4`,  `tetra`, `tetrahedron`, `simplex` => Tetrahedron.
-`6`,  `hexa`,  `hexahedron`,  `cube`    => Hexahedron.
-`8`,  `octa`,  `octahedron`             => Octahedron.
-`12`, `dodeca`,`dodecahedron`           => Dodecahedron.
-`20`, `icosa`, `icosahedron`            => Icosahedron.
+ - `4`,  `tetra`, `tetrahedron`, `simplex` => Tetrahedron.
+ - `6`,  `hexa`,  `hexahedron`,  `cube`    => Hexahedron.
+ - `8`,  `octa`,  `octahedron`             => Octahedron.
+ - `12`, `dodeca`,`dodecahedron`           => Dodecahedron.
+ - `20`, `icosa`, `icosahedron`            => Icosahedron.
 
 ### Other Settings
 
