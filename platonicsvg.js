@@ -18,7 +18,7 @@ class PlatonicSVG extends HTMLElement {
   }
 
   connectedCallback() {
-    this.faces = this.setVertices(this.getAttribute("solid"));
+    this.faces = this.setVertices(this.getAttribute("solid") || "12");
     this.progressMax = parseInt(this.getAttribute("progress-max") || 100); 
     
     const width  = this.getAttribute("width")  || "256";
