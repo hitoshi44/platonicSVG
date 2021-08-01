@@ -1,6 +1,6 @@
 {
   "name": "platonicsvg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Platon Solid SVG for browsers implemented with WebComponent.",
   "main": "platonicsvg.js",
   "scripts": {
