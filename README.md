@@ -46,8 +46,8 @@ With setting attributes, you can control the SVG's behavior as below.
     width=128
     height=128
 
-    line-color=#3c3c3c
-    line-width=1px
+    edge-color=#3c3c3c
+    edge-width=1px
     face-color=rgba(32,32,128,0.6)
 
     dx=2

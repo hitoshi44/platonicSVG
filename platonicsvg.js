@@ -25,7 +25,7 @@ class PlatonicSVG extends HTMLElement {
     const height = this.getAttribute("height") || "256";
     const backc  = this.getAttribute("back-color") || "inherit";
     const linec  = this.getAttribute("edge-color") || "#6E777C";
-    const linew  = this.getAttribute("line-width") || "1px";
+    const linew  = this.getAttribute("edge-width") || "1px";
     const facec  = this.getAttribute("face-color") || "rgba(215,230,244, 0.8)";
 
     const containerCls = this.getAttribute("SVGClassName")  || "platonic-svg";
